@@ -3,7 +3,7 @@
 # Title
 Comparative Analysis of White Box (PGD) and Black Box (TextFooler) Adversarial Attacks Against Sentiment Analysis Classifier
 
-### ✨ Video Demonstration
+### Video Demonstration
 
 [![Watch the video](https://img.youtube.com/vi/ytxF_i1V0Ec/0.jpg)](https://www.youtube.com/watch?v=ytxF_i1V0Ec)
 
